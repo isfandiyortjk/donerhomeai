@@ -1,0 +1,17 @@
+{
+  "name": "assistant-doner-home",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.19.2",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "google-spreadsheet": "4.1.1",
+    "openai": "^4.28.0"
+  }
+}
